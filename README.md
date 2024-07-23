@@ -1,3 +1,3 @@
-# Caio Delgado Dotfiles
+# Dotfiles
 
 WIP
